@@ -1,0 +1,8 @@
+This is an user interface designed in Labview for a second harmonic microscopy system to acquire images in a time laps manner. The microscopy can be used for the charge carrier dynamics in semiconductor devices. The system contains DG-645 digital delay generator, an EMCCD (Model: Newton 970 EMCCD from Oxford Instruments) set as in external triggered mode, and two SMU (source measuring unit) set in external triggered mode to. The user interface controls all the time sequence for the EMCCD and SMUs, while the DG645 is in external triggered mode too (triggered by the TTL out of the main laser unit) to synchronize the entire system with the incident optical pulses. It will help the user to control the delay generator using a PC. One need the GPIB connector to use the this user interface. The executable will only work for this particular delay generator (Model: DG645 from Stanford Research Systems). Please feel free to contact me on binit.mallick@gmail.com for any query regarding the interface.
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"

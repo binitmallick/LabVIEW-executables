@@ -1,0 +1,8 @@
+This is an user interface designed in Labview for SR-470 shutter controller. It will help the user to control the SR-470 using a PC. One need the GPIB connector to use the this user interface. The executable will only work for this particular shutter controller (Model: SR470 from Stanford Research Systems).
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"

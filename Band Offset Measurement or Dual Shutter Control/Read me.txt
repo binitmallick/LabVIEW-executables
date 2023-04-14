@@ -1,0 +1,8 @@
+This user interface can record the Channel-1 data over time from a SR-830 lock-in amplifier with the time intances. Alongwith this, it concrol two optical shutters. One shutter can be controlled through the AUX-1 Out (at the bacck pannel of SR-830) in an external level triggered mode the other one is specific to the SR-470 shutter contoller. One might use it for their laboratory experiments involving optics. One need the GPIB connector to use the this user interface. The executable will only work for this particular lock-in amplifier (Model: SR830 from Stanford Research Systems).
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"

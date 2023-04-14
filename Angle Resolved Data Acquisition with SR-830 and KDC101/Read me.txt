@@ -1,0 +1,8 @@
+This user interface is very specific to an experiment where the optical response data from a specimen is involved with the orientation of the polarization of the incident light or the orientation of the sample itself. To use this user interface one need to have SR-830 lock-in amplifier, GPIB connector, DC Servo Motor Controller (Model: KDC101 from thorlabs) with a rotation stage (connected to PC through an USB). If anyone needs to develope similar programs for the experiments with different components than the above mentioned ones, and facing a dificult time to write it. Please feel free to contact me on binit.mallick@gmail.com
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"

@@ -1,0 +1,8 @@
+This is an user interface designed in Labview for DG-645 digital delay generator. It will help the user to control the delay generator using a PC. One need the GPIB connector to use the this user interface. The executable will only work for this particular delay generator (Model: DG645 from Stanford Research Systems).
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"

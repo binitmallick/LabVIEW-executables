@@ -1,4 +1,4 @@
-This executable program for an user interface, that will record the channel-1 data over time from the SR830 lock-in amplifier with the corresponding time instances. Though it is mentioned "Time Dependent Second Harmonic Intensity Data Acquisition" explicitly but one may use it for any sort of measurement that involves data acquisition over time. One need the GPIB connector to use the this user interface. The executable will only work for this particular lock-in amplifier (Model: SR830 from Stanford Research Systems)
+This is an executable program of an user interface, that will record the channel-1 data over time from the SR830 lock-in amplifier with the corresponding time instances. Though it is mentioned "Time Dependent Second Harmonic Intensity Data Acquisition" explicitly but one may use it for any sort of measurement that involves data acquisition over time. One need the GPIB connector to use the this user interface. The executable will only work for this particular lock-in amplifier (Model: SR830 from Stanford Research Systems)
 
 Download Labview Runtime Environment from the given link
 

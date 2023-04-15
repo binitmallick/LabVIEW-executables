@@ -1,0 +1,8 @@
+This is an executable user interface, that will record the channel-1 data over time from the SR830 lock-in amplifier with the corresponding time instances in a loop. While one may choose to vary the optical path blocking time that increases over consecutive loops in an arithmetic progression sequence. One need the GPIB connector to use the this user interface. The executable will only work for this particular lock-in amplifier (Model: SR830 from Stanford Research Systems)
+
+Download Labview Runtime Environment from the given link
+
+https://www.ni.com/en-in/support/downloads/software-products/download.labview-runtime.html#477317
+
+Select Version "2018" 
+Select Application Bitness "32-bit"
